@@ -7,6 +7,8 @@ This repository, developed by Stefan Pietrusky, is based on the QUEST prototypes
 
 The application is currently being tested and further developed in studies.
 
+> **⚠️ Work in Progress:** This prototyp is currently under active development. While I make it available for research purposes, please be aware that there will be some changes to the functional structure. I recognize that some current technical design decisions may not be optimal and are subject to revision. Researchers using this prototyp should expect potential updates and changes. I recommend checking back regularly for updates and versioning information.
+
 ## QUEST Structure
 The structure of the current [V1] QUEST app is shown below.
 ![QUEST V1 Structure (SVG created with Mermaid](images/QUESTV1_APP.svg)
